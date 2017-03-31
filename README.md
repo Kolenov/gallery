@@ -1,1 +1,1 @@
-# Gallery study project PHP classes and SPL
+# Gallery practice project PHP classes and SPL
