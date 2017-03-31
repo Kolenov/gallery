@@ -1,0 +1,57 @@
+body {
+	font-family: Arial;
+	color: #555;
+	font-size: 14px;
+}
+
+#main {
+	position: relative;
+	width: 968px;
+	margin: 0px auto;
+}
+
+#matrix {
+	padding-top: 15px;
+}
+
+.picture {
+	border: solid black 1px;
+	width: 320px;
+	height: 320px;
+	overflow: hidden;
+	float: left;
+}
+
+#pagination {
+	font-size: 16px;
+
+}
+
+#pagination a {
+	color: #555;
+	padding: 6px;
+
+}
+
+#pagination .current a {
+	font-weight: bold;
+	color: #800;
+	background-color: #FCC;
+}
+
+#pagination .arrow a {
+	text-decoration: none;
+}
+
+#comments .author{
+	line-height: 24px;
+	font-weight: bold;
+	color: #800;
+}
+
+#comments .comment{
+	line-height: 24px;
+	padding: 10px;
+	margin-bottom: 10px;
+	background-color: #eee;
+}
